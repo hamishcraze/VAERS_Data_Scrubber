@@ -11,3 +11,6 @@ To run the script
 - Check the package requirements at beginning of script
 - Update the file paths
 - Run the whole thing
+
+
+P.S If you ever read this, cheers Logan you saved me a f&@k load of time. 
